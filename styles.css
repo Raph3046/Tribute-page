@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+  }
+  
+  img {
+    height: 300;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  h3, figcaption{
+    color: white;
+  }
